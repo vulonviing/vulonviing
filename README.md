@@ -2,7 +2,7 @@
 # Emrecan ULU
 
 ## Data Analyst
-Experienced data analyst skilled in BI visualization, statistics, big data, and machine learning. Proficient in Python, expertise in Power BI with Power Platform, and Qlik Sense. Background in supervised learning techniques. Currently pursuing a bachelor's degree in Economics at Ege University and currently working in DQTürkiye. 
+Experienced data analyst skilled in BI visualization, statistics, big data, and machine learning. Proficient in Python, expertise in Power BI, and Qlik Sense. Background in supervised learning techniques. Currently pursuing a bachelor's degree in Economics at Ege University and currently working in DQTürkiye. 
 
 ### Personal Information & Contact
 - **E-mail:** [emrecanulu@outlook.com](mailto:emrecanulu@outlook.com)
