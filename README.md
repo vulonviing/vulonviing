@@ -2,7 +2,7 @@
 # Emrecan ULU
 
 ## Data Analyst
-Experienced data analyst skilled in BI visualization, statistics, big data, and machine learning. Proficient in Python (Pandas, scikit-learn, TensorFlow, Keras, NumPy, empiricaldist, SciPy, Seaborn, Matplotlib, Plotly Dash), expertise in Power BI (DAX, PowerQuery M) with Power Platform, and Qlik Sense with Qlik Script. Background in supervised learning techniques. Currently pursuing a bachelor's degree in Economics at Ege University and currently working in DQTürkiye. 
+Experienced data analyst skilled in BI visualization, statistics, big data, and machine learning. Proficient in Python, expertise in Power BI with Power Platform, and Qlik Sense. Background in supervised learning techniques. Currently pursuing a bachelor's degree in Economics at Ege University and currently working in DQTürkiye. 
 
 ### Personal Information & Contact
 - **E-mail:** [emrecanulu@outlook.com](mailto:emrecanulu@outlook.com)
@@ -15,10 +15,10 @@ Experienced data analyst skilled in BI visualization, statistics, big data, and 
   <summary><b>Skills</b></summary>
   
 - **Programming Languages:** Python, SQL, Java
-- **Libraries & Frameworks:** Pandas, Numpy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn, Plotly Dash
+- **Libraries & Frameworks:** Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn, Plotly Dash
 - **BI Tools:** PowerBI (DAX, PowerQuery M), Qlik Sense (Qlik Script), Tableau
 - **Statistical Analysis:** Hypothesis testing, A/B tests
-- **Machine Learning Techniques:** Supervised learning (regression and classification), Deep Learning
+- **Machine Learning Techniques:** Supervised learning (regression and classification)
 - **Other:** Data visualization, Data presentation
 </details>
 
