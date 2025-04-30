@@ -29,7 +29,7 @@ Experienced data analyst skilled in BI visualization, statistics, big data, and 
 **DQTürkiye, Izmir, Turkey - Hybrid**  
 *April 2023 - Present*
 - Created and customized BI dashboards for diverse industries.
-- Developed and fine-tuned Deep Learning and Machine Learning models using SK-Learn and TensorFlow, achieving up to 75-80% accuracy rates.
+- Developed and fine-tuned Deep Learning and Machine Learning models, achieving up to 75-80% accuracy rates.
 - Designed efficient data structures using Python, SQL within BI tools.
 - Utilized Qlik Sense, PowerBI, and Python to extract valuable insights and drive data-driven decision-making.
 </details>
