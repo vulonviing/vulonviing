@@ -2,7 +2,7 @@
 # Emrecan ULU
 
 ## Data Analyst
-Experienced data analyst skilled in BI visualization, statistics, big data, and machine learning. Proficient in Python, expertise in Power BI, and Qlik Sense. Background in supervised learning techniques. Currently pursuing a bachelor's degree in Economics at Ege University and currently working in DQTürkiye. 
+Data Analyst @Siemens, MSc Data Science @University of Konstanz
 
 ### Personal Information & Contact
 - **E-mail:** [emrecanulu@outlook.com](mailto:emrecanulu@outlook.com)
@@ -24,14 +24,22 @@ Experienced data analyst skilled in BI visualization, statistics, big data, and 
 
 <details>
   <summary><b>Employment</b></summary>
-  
+
+**EP Data Analyst (Part-time)**  
+**Siemens, Munich, Bavaria, Germany - Hybrid**  
+*October 2025 - Present*
+- Worked on data analysis, GenAI, and LLM-based applications.
+- Contributed to exploratory data analysis, feature engineering, and model evaluation.
+- Supported development of data-driven and AI-powered solutions for enterprise use cases.
+
 **Jr. Business Intelligence Specialist**  
 **DQTürkiye, Izmir, Turkey - Hybrid**  
-*April 2023 - Present*
-- Created and customized BI dashboards for diverse industries.
-- Developed and fine-tuned Deep Learning and Machine Learning models, achieving up to 75-80% accuracy rates.
-- Designed efficient data structures using Python, SQL within BI tools.
-- Utilized Qlik Sense, PowerBI, and Python to extract valuable insights and drive data-driven decision-making.
+*April 2023 - October 2025*
+- Developed and maintained BI dashboards and reports.
+- Designed efficient data structures using Python and SQL within BI tools.
+- Designed and implemented data models and dashboards using Qlik Sense and Power BI.
+- Supported pilot projects involving data analysis and automation.
+- Collaborated with stakeholders to translate business needs into data-driven insights.
 </details>
 
 <details>
