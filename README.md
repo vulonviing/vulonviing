@@ -1,8 +1,8 @@
 ### Hi there 👋
 # Emrecan ULU
 
-## Data Analyst
-Data Analyst @Siemens, MSc Data Science @University of Konstanz
+## Data Scientist
+@Siemens, MSc Data Science @University of Konstanz
 
 ### Personal Information & Contact
 - **E-mail:** [emrecanulu@outlook.com](mailto:emrecanulu@outlook.com)
